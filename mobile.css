@@ -1,0 +1,11 @@
+@media (max-width:600px) {
+    .nav-links {
+        padding: 3.5vw 7vw;
+    }
+    .nav-links a {
+        font-size: 4vw;
+    }
+    .nav-links i {
+        font-size: 5vw;
+    }
+}
